@@ -1,0 +1,4 @@
+3
+Zenit;3;Spartac;1
+Spartac;1;CSCA;1
+CSCA;0;Zenit;2

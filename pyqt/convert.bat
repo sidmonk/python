@@ -1,0 +1,1 @@
+pyuic5 combobox_ui.ui -o combobox_ui.py

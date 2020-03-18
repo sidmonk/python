@@ -1,0 +1,14 @@
+Hello stream world
+Enter a number>
+1 squared is 1
+Enter a number>
+2 squared is 4
+Enter a number>
+3 squared is 9
+Enter a number>
+5 squared is 25
+Enter a number>
+76 squared is 5776
+Enter a number>
+78 squared is 6084
+Enter a number>Bye

@@ -1,0 +1,13 @@
+Python
+handle = open("test.txt", "r")
+data = handle.read()
+print(data)
+handle.close()
+1
+2
+3
+4
+handle = open("test.txt", "r")
+data = handle.read()
+print(data)
+handle.close()
