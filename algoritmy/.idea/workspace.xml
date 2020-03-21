@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f68cc68-a13f-4792-bb35-7c042be2a68b" name="Default Changelist" comment="" />
+    <list default="true" id="1f68cc68-a13f-4792-bb35-7c042be2a68b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/двусвязный список.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/задача о дискретном рюкзаке.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algoritmy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algoritmy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lutc2/chapter5" beforeDir="false" afterPath="$PROJECT_DIR$/../lutc2/chapter5" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +20,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="8cb88a00-2365-4357-a195-ece81adb4189">
+    <option name="files">
+      <option value="12.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1Z1hwKbH0nSXhbzOdmdXBxUnmpf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,51 +43,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lutc2/3" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../class/Person.py" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sidmonk\Documents\Python\algoritmy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.расстояник ливенштейна">
-    <configuration name="наибольшая общая подпоследоввательность" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.односвязный список">
+    <configuration name="односвязный список" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algoritmy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/наибольшая общая подпоследоввательность.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sidmonk\Documents\Python\algoritmy\односвязный список.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="бинарный поиск" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algoritmy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/бинарный поиск.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -85,6 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/кнут-моррис-пратт.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -94,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="кнут-моррис-пратт" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="задача о дискретном рюкзаке" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algoritmy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,28 +108,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Sidmonk\Documents\Python\algoritmy\кнут-моррис-пратт.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="расстояник ливенштейна" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algoritmy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/расстояник ливенштейна.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/задача о дискретном рюкзаке.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,6 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gcp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -169,6 +152,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Эйлер/sito.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -180,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.расстояник ливенштейна" />
+        <item itemvalue="Python.односвязный список" />
+        <item itemvalue="Python.двусвязный список" />
+        <item itemvalue="Python.двусвязный список" />
+        <item itemvalue="Python.задача о дискретном рюкзаке" />
         <item itemvalue="Python.gcp" />
-        <item itemvalue="Python.sito" />
-        <item itemvalue="Python.кнут-моррис-пратт (1)" />
-        <item itemvalue="Python.кнут-моррис-пратт" />
       </list>
     </recent_temporary>
   </component>
@@ -198,54 +182,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584012744536</updated>
+      <workItem from="1584702717225" duration="4118000" />
+      <workItem from="1584737755083" duration="735000" />
+      <workItem from="1584790564047" duration="4352000" />
+      <workItem from="1584800991470" duration="8673000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Notifications" timestamp="1584705156456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584705156456" />
+    <state x="686" y="173" key="#двусвязный_список" timestamp="1584802181362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="173" key="#двусвязный_список/0.0.1920.1040@0.0.1920.1040" timestamp="1584802181362" />
     <state x="175" y="122" width="1653" height="825" key="DiffContextDialog" timestamp="1584027649866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="175" y="122" width="1653" height="825" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584027649866" />
-    <state x="781" y="292" width="661" height="484" key="FileChooserDialogImpl" timestamp="1584284437956">
+    <state x="781" y="292" width="661" height="484" key="FileChooserDialogImpl" timestamp="1584793866838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="781" y="292" width="661" height="484" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584284437956" />
-    <state width="1815" height="339" key="GridCell.Tab.0.bottom" timestamp="1584284439378">
+    <state x="781" y="292" width="661" height="484" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584793866838" />
+    <state width="1859" height="267" key="GridCell.Tab.0.bottom" timestamp="1584804261845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584284439378" />
-    <state width="1815" height="339" key="GridCell.Tab.0.center" timestamp="1584284439378">
+    <state width="1859" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584804261845" />
+    <state width="1859" height="267" key="GridCell.Tab.0.center" timestamp="1584804261845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584284439378" />
-    <state width="1815" height="339" key="GridCell.Tab.0.left" timestamp="1584284439378">
+    <state width="1859" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584804261845" />
+    <state width="1859" height="267" key="GridCell.Tab.0.left" timestamp="1584804261845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584284439378" />
-    <state width="1815" height="339" key="GridCell.Tab.0.right" timestamp="1584284439378">
+    <state width="1859" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584804261845" />
+    <state width="1859" height="267" key="GridCell.Tab.0.right" timestamp="1584804261845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584284439378" />
-    <state width="1815" height="338" key="GridCell.Tab.1.bottom" timestamp="1584223415957">
+    <state width="1859" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584804261845" />
+    <state width="1859" height="330" key="GridCell.Tab.1.bottom" timestamp="1584804259711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584223415957" />
-    <state width="1815" height="338" key="GridCell.Tab.1.center" timestamp="1584223415957">
+    <state width="1859" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584804259711" />
+    <state width="1859" height="330" key="GridCell.Tab.1.center" timestamp="1584804259711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584223415957" />
-    <state width="1815" height="338" key="GridCell.Tab.1.left" timestamp="1584223415957">
+    <state width="1859" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584804259711" />
+    <state width="1859" height="330" key="GridCell.Tab.1.left" timestamp="1584804259711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584223415957" />
-    <state width="1815" height="338" key="GridCell.Tab.1.right" timestamp="1584223415957">
+    <state width="1859" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584804259711" />
+    <state width="1859" height="330" key="GridCell.Tab.1.right" timestamp="1584804259711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1815" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584223415957" />
-    <state x="664" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1584220151442">
+    <state width="1859" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584804259711" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584702901333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584220151442" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584702901333" />
+    <state x="664" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1584703646864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584703646864" />
     <state x="723" y="452" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584269514150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -279,7 +282,16 @@
           <line>5</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/двусвязный список.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algoritmy$_.coverage" NAME="двусвязный список Coverage Results" MODIFIED="1584804191475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoritmy$___.coverage" NAME="задача о дискретном рюкзаке Coverage Results" MODIFIED="1584705553779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
